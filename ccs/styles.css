@@ -68,17 +68,19 @@ main{
 }
 .titulo_sobremi{
     margin: 20px 0;
+    font-size: 36px;
 
 }
 .parrafo_sobremi{
-
+line-height: 1.2;
 }
 .link_descargarcv{
-    background-color:rgb(38, 161, 192);
+    background-color:#af599e;
     color:white;
     padding: 10px 20px;
     border-radius: 60px;
     margin: 20px 0;
+   
 }
 .seccion_contacto{
     width: 100%;
@@ -90,13 +92,13 @@ main{
 text-align: center;
 padding: 15px 10px;
 border-radius: 10px;
-background-color: rgb(163, 177, 238);
+background-color: rgba(175, 89, 158, 0.3);
 }
 .titulo_contacto{
-
+font-size: 28px;
 }
 .parrafo_contacto{
-
+    line-height: 1.2;
 }
 .seccion_redessociales{
     margin-top: 20px;
@@ -111,7 +113,7 @@ font-size: 60px;
 
 }
 .footer{
-    background-color:rgb(38, 161, 192);
+    background-color:#af599e;
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
@@ -122,7 +124,5 @@ font-size: 60px;
 }
 .parrafo_copy{
     color:white;
-   
-    
-
-}
+    font-size: 20px;
+   }
